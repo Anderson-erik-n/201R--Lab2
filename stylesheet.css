@@ -1,0 +1,80 @@
+
+body {
+	padding-left: 8%;
+	padding-right: 8%;
+
+/*cribbed from CSS Tricks*/
+	background: url(Desktop/lightspot.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.jumbotron 
+{
+	border-bottom-left-radius: 25px;
+	border-bottom-right-radius: 25px;
+	text-align: center;
+	background-color: rgb(2,2,180);
+	color: rgba(255,255,51,0.75);
+}
+
+.col-sm-4
+{
+position: relative;
+margin: 10px;
+	padding-right: 10px;
+padding-left: 10px;
+padding-bottom: 10px;    
+padding-top: 10px;
+right: 0;
+    right: 0;
+    bottom: 0;
+    right: 0;
+    width: 300px;
+    border: 3px solid;
+	border-color: rgb(2,2,180);
+			
+}
+
+#citytextbox {
+margin: 10px;
+        padding-right: 10px;
+padding-left: 10px;
+padding-bottom: 10px;
+padding-top: 10px;
+right: 860px;
+top: 300px;
+    width: 300px;
+    border: 3px solid;
+        border-color: rgb(2,2,180);
+ position: absolute;
+}
+
+#currentweather {
+position: absolute;
+margin: 10px;
+        padding-right: 10px;
+padding-left: 10px;
+padding-bottom: 10px;
+padding-top: 10px;
+    width: 300px;
+    border: 3px solid;
+        border-color: rgb(2,2,180);
+    top: 350px;
+    right: 217px;
+}
+
+
+body {
+background-image: url("paper.gif");
+}
+
+
+
+
+
+
+
+
